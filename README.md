@@ -12,6 +12,7 @@ Explanation of workflow:
 #### 4) Select the corresponding prediction node according to the model read by the model reader;
 #### 5) Output for the prediction result. In addition, evaluation nodes can be chosen according to your task.
 
+![image](https://github.com/ifyoungnet/ChemSweet/blob/main/Figure%201.jpg)
 
 ## Publication
 Zhengfei Yang, Ran Xiao,Guoli Xiong, et al. A novel multi-layer prediction approach for sweetness evaluation based on systematic machine learning modeling. *Food Chemistry*, submitted.
