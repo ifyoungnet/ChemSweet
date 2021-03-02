@@ -1,3 +1,7 @@
+![GitHub forks](https://img.shields.io/github/forks/ifyoungnet/ChemSweet.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ifyoungnet/ChemSweet.svg?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ifyoungnet/ChemSweet.svg)
+
 # ChemSweet
 ## How to form your own prediction pipeline:
 The details of constructing your own workflow are shown in Figure 1 and Figure2. 
