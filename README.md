@@ -12,10 +12,10 @@ Explanation of workflow:
 #### 4) Select the corresponding prediction node according to the model read by the model reader;
 #### 5) Output for the prediction result. In addition, evaluation nodes can be chosen according to your task.
 
-![image](https://github.com/ifyoungnet/ChemSweet/blob/main/Figure%201.jpg)
+![image](http://projects.scbdd.com/assets/img/description/chemsweet/figure1.jpg)
 <p align="center">Figure 1. KNIME usage example of classification model.</p>
 
-![image](https://github.com/ifyoungnet/ChemSweet/blob/main/Figure%202.jpg)
+![image](http://projects.scbdd.com/assets/img/description/chemsweet/figure2.jpg)
 <p align="center">Figure 2. KNIME usage example of logSw prediction model.</p>
 
 ## Publication
