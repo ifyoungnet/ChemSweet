@@ -19,7 +19,7 @@ Explanation of workflow:
 <p align="center">Figure 2. KNIME usage example of logSw prediction model.</p>
 
 ## Publication
-> Zhengfei Yang, Ran Xiao,Guoli Xiong, et al. A novel multi-layer prediction approach for sweetness evaluation based on systematic machine learning modeling. *Food Chemistry*, submitted.
+> Zhengfei Yang, Ran Xiao,Guoli Xiong, et al. A novel multi-layer prediction approach for sweetness evaluation based on systematic machine learning modeling. *Food Chemistry*, 2022, 372: 131249.
 
 ## Contact
   
